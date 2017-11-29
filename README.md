@@ -1,1 +1,1 @@
-# negapoziFasttext
+# fasttextを使用した、口コミサイトなどのレビューのネガポジ判定する分類器
